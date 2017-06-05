@@ -7,9 +7,9 @@ The analysis involves descriptive, LDA, stance detection and sentimental analysi
 Compared with null accuracy of 50.7%, we achieved accuracy of 93% by ensemble methods and AUC of 0.98.
 
 Group Members:
-Deivapriya RAJENDIRAN 
-KOH Jia Xiang
-LIAW Sze Wai Sylvia
-NG Hui Yi Nicole
-XU Yuwen
+Deivapriya RAJENDIRAN, 
+KOH Jia Xiang,
+LIAW Sze Wai Sylvia,
+NG Hui Yi Nicole,
+XU Yuwen,
 YAU Chung Yin Jack
