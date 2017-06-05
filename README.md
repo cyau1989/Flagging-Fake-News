@@ -1,5 +1,4 @@
 # Flagging-Fake-News
-Flagging Fake News
 
 This is the final project of the course - Mining Web Data for Business Insights. 
 Our chosen topic is utilizing data analytics to flag fake news. 
