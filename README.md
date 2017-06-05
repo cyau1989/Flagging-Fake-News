@@ -5,7 +5,16 @@ Our chosen topic is utilizing data analytics to flag fake news.
 The analysis involves descriptive, LDA, stance detection and sentimental analysis. 
 Compared with null accuracy of 50.7%, we achieved accuracy of 93% by ensemble methods and AUC of 0.98.
 
-Group Members:
+# Python Codes:
+flagging_fake_news.ipynb
+
+# Project Report:
+report06_final.docx
+
+# Project Presentation:
+Flagging Fake News.pptx
+
+# Group Members:
 Deivapriya RAJENDIRAN, 
 KOH Jia Xiang,
 LIAW Sze Wai Sylvia,
