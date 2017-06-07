@@ -14,7 +14,7 @@ report06_final.docx
 # Project Presentation:
 Flagging Fake News.pptx
 
-# Group Members:
+# Prepared By:
 Deivapriya RAJENDIRAN, 
 KOH Jia Xiang,
 LIAW Sze Wai Sylvia,
